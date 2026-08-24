@@ -1,4 +1,5 @@
 <?php
+// Copia de la plantilla común de secciones web.
 // ============================================================
 // views/base.php - Vista genérica para páginas secundarias
 // ============================================================

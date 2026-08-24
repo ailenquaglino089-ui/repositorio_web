@@ -1,4 +1,5 @@
 <?php
+// Copia de la vista web de configuración y preferencias.
 // Calcula la ruta base del proyecto para los enlaces
 $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
 ?>

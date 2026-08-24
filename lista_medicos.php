@@ -1,4 +1,5 @@
 <?php
+// Copia de la vista de médicos que consume la API.
 // Calcula la ruta base del proyecto para usarla en los enlaces
 // Ej: "/Organizacion_Modulos"
 $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');

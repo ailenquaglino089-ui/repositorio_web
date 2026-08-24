@@ -1,4 +1,5 @@
 <?php
+// Copia de la vista de prescripciones con acceso SQL local.
 // Calcula la ruta base del proyecto para usarla en enlaces y llamadas API
 $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
 
